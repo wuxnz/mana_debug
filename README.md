@@ -1,4 +1,4 @@
-# Flutter Media Scraper & Video Player
+# Mana: Flutter Media Scraper & Video Player
 
 ## Overview
 This is a **Flutter** application that scrapes websites for different media information, extracts video links from embedded sources, and plays those links using an integrated video player. The app leverages metadata providers like **Kitsu, Jikan, and TMDB** to fetch detailed media info such as trailers, episode details, images, descriptions, and filler information.
